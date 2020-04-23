@@ -28,7 +28,7 @@ a:hover {
 }
 /*--banner start here--*/
 .banner {
-    background: url(../images/bann1.jpg)no-repeat;
+    background: url(../images/home.jpg)no-repeat;
     min-height: 800px;
     background-size: cover;
 	position:relative;
